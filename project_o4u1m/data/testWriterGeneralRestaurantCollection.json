@@ -1,0 +1,19 @@
+{
+    "name": "My restaurant collection",
+    "restaurants": [
+        {
+            "rate": 0,
+            "price": "pricing",
+            "name": "restaurant1",
+            "location": "city",
+            "type": "cuisine"
+        },
+        {
+            "rate": 0,
+            "price": "pricing",
+            "name": "restaurant2",
+            "location": "city",
+            "type": "cuisine"
+        }
+    ]
+}
