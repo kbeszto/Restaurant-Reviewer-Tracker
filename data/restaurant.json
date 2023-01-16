@@ -1,0 +1,10 @@
+{
+    "name": "restaurants",
+    "restaurants": [{
+        "rate": 5,
+        "price": "$$",
+        "name": "Test",
+        "location": "A",
+        "type": "B"
+    }]
+}
